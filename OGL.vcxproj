@@ -21,7 +21,7 @@
     <ClCompile Include="src\main.cpp" />
     <ClCompile Include="src\tests\Test.cpp" />
     <ClCompile Include="src\tests\TestClearColor.cpp" />
-    <ClCompile Include="src\ogl\rnd\Window.cpp" />
+    <ClCompile Include="src\ogl\rnd\window_.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="src\ext\imgui\imconfig.h" />
@@ -34,7 +34,7 @@
     <ClInclude Include="src\ext\imgui\imstb_truetype.h" />
     <ClInclude Include="src\tests\Test.h" />
     <ClInclude Include="src\tests\TestClearColor.h" />
-    <ClInclude Include="src\ogl\rnd\Window.h" />
+    <ClInclude Include="src\ogl\rnd\window_.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
